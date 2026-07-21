@@ -1,8 +1,8 @@
 <h1 align="center">Gabriel Andrés Salazar Espinosa</h1>
 
 <p align="center">
-  <strong>Economista &amp; Analista de Datos</strong> · Economist &amp; Data Analyst<br>
-  <sub>Ibagué, Colombia · Disponible para trabajo remoto / Available for remote work</sub>
+  <strong>Economist &amp; Data Analyst</strong> · Economista &amp; Analista de Datos<br>
+  <sub>Colombia · Available for remote work or relocation</sub>
 </p>
 
 <p align="center">
@@ -14,23 +14,6 @@
 ---
 
 <details open>
-<summary><strong>🇨🇴 Español</strong></summary>
-<br>
-
-Economista con **más de 5 años en análisis de datos** y experiencia reciente en análisis económico. Trabajo donde se cruzan el rigor estadístico, las herramientas para automatizarlo y la capacidad de explicarlo a quien toma la decisión.
-
-En el **Banco de la República** construí y monitoreé indicadores de sectores como el sistema financiero y la construcción, consolidando y validando información estadística para boletines técnicos. Antes, durante casi cinco años en **Vortech Express**, analicé indicadores comerciales y financieros y automaticé procesos de negocio.
-
-**Qué me interesa:** problemas donde los datos todavía no tienen forma — series que hay que limpiar, procesos manuales que piden automatización, preguntas de negocio que aún no son una métrica.
-
-- 🎓 Economista, Universidad del Tolima (2025) — énfasis en finanzas, econometría y análisis cuantitativo
-- 📊 Python · R · SQL · Power BI · Stata · Excel avanzado
-- 🌐 Español nativo · Inglés avanzado · Francés básico
-- 💼 Abierto a roles de análisis de datos, análisis económico y finanzas — **remoto o con relocalización**
-
-</details>
-
-<details>
 <summary><strong>🇬🇧 English</strong></summary>
 <br>
 
@@ -44,6 +27,23 @@ At **Banco de la República** I built and monitored indicators for sectors such 
 - 📊 Python · R · SQL · Power BI · Stata · Advanced Excel
 - 🌐 Spanish native · Advanced English · Basic French
 - 💼 Open to data analysis, economic analysis and finance roles — **remote or open to relocation**
+
+</details>
+
+<details>
+<summary><strong>🇨🇴 Español</strong></summary>
+<br>
+
+Economista con **más de 5 años en análisis de datos** y experiencia reciente en análisis económico. Trabajo donde se cruzan el rigor estadístico, las herramientas para automatizarlo y la capacidad de explicarlo a quien toma la decisión.
+
+En el **Banco de la República** construí y monitoreé indicadores de sectores como el sistema financiero y la construcción, consolidando y validando información estadística para boletines técnicos. Antes, durante casi cinco años en **Vortech Express**, analicé indicadores comerciales y financieros y automaticé procesos de negocio.
+
+**Qué me interesa:** problemas donde los datos todavía no tienen forma — series que hay que limpiar, procesos manuales que piden automatización, preguntas de negocio que aún no son una métrica.
+
+- 🎓 Economista, Universidad del Tolima (2025) — énfasis en finanzas, econometría y análisis cuantitativo
+- 📊 Python · R · SQL · Power BI · Stata · Excel avanzado
+- 🌐 Español nativo · Inglés avanzado · Francés básico
+- 💼 Abierto a roles de análisis de datos, análisis económico y finanzas — **remoto o con relocalización**
 
 </details>
 
