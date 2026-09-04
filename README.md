@@ -19,7 +19,7 @@
 
 Economist with **5+ years in data analysis** and recent experience in economic analysis. I work where three things meet: statistical rigor, the tooling to automate it, and the ability to explain it to whoever makes the decision.
 
-At **Banco de la República** I built and monitored indicators for sectors such as the financial system and construction, consolidating and validating statistical information for technical bulletins. Before that, across nearly five years at **Vortech Express**, I analyzed commercial and financial indicators and automated business processes.
+At **Banco de la República** I monitored and structured indicators for sectors such as the financial system and construction, consolidating and validating statistical information for technical bulletins. Before that, across nearly five years at **Vortech Express**, I analyzed commercial and financial indicators and automated business processes.
 
 **What interests me:** problems where the data has no shape yet — series that need cleaning, manual processes asking to be automated, business questions that aren't a metric yet.
 
@@ -36,7 +36,7 @@ At **Banco de la República** I built and monitored indicators for sectors such 
 
 Economista con **más de 5 años en análisis de datos** y experiencia reciente en análisis económico. Trabajo donde se cruzan el rigor estadístico, las herramientas para automatizarlo y la capacidad de explicarlo a quien toma la decisión.
 
-En el **Banco de la República** construí y monitoreé indicadores de sectores como el sistema financiero y la construcción, consolidando y validando información estadística para boletines técnicos. Antes, durante casi cinco años en **Vortech Express**, analicé indicadores comerciales y financieros y automaticé procesos de negocio.
+En el **Banco de la República** monitoreé y estructuré indicadores de sectores como el sistema financiero y la construcción, consolidando y validando información estadística para boletines técnicos. Antes, durante casi cinco años en **Vortech Express**, analicé indicadores comerciales y financieros y automaticé procesos de negocio.
 
 **Qué me interesa:** problemas donde los datos todavía no tienen forma — series que hay que limpiar, procesos manuales que piden automatización, preguntas de negocio que aún no son una métrica.
 
